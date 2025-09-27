@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "AC Fagre"
+  pronouns         : "she/they"  
+  bio              : "Veterinary virologist"
+  location         : "Here"
+  employer         : "Iowa State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "fagrelab@iastate.edu" 
 
   # Academic websites
   academia         : # URL
